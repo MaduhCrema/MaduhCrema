@@ -3,7 +3,7 @@
 #### Atualmente sou estudante de Ciência da computação 👩‍🎓
 #### Estou muito interessada em começar no Front-end, área que mais estudo atualmente 🖥️
 #### Ja estudei e sei o básico de C, C++, Kotlin e Android Studio 💻
-#### Atualmente estudo sobre HTML, CSS E JavaSCrip 👩‍💻
+#### Atualmente estudo sobre HTML, CSS E JavaScript 👩‍💻
   ##
  <div>
   <a href="https://github.com/MaduhCrema">
