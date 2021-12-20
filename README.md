@@ -1,8 +1,8 @@
 # **Olá eu sou a Maduh** 👋
 
-#### Atualmente sou estudante de Ciência da computação 👩‍🎓
+#### Etudante de Ciência da computação 👩‍🎓
 #### Tenho muito interesse em Front-end, área que mais estudo atualmente 🖥️
-#### Ja estudei e sei o básico de C, C++, Kotlin e Android Studio 💻
+#### Conhecimento em C, C++, Kotlin e Android Studio 💻
 #### Atualmente estudo sobre HTML, CSS E JavaScript 👩‍💻
   ##
  <div>
