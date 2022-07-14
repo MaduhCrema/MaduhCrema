@@ -1,8 +1,6 @@
 # **Olá eu sou a Maduh** 👋
 
-#### Etudante de Ciência da computação 👩‍🎓
-#### Tenho muito interesse em Front-end, área que mais estudo atualmente 🖥️
-#### Conhecimento em C, HTML, CSS e Android Studio💻
+#### Estudante de Ciência da computação 👩‍🎓
   ##
  <div>
   <a href="https://github.com/MaduhCrema">
