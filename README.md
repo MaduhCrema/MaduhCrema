@@ -1,12 +1,8 @@
-# **Olá eu sou a Maduh** 👋
+Sou desenvolvedora de jogos, amo jogos indie, e já participei do [GameJam de 2020](https://github.com/risoflorais).
 
-#### Estudante de Ciência da computação 👩‍🎓
-  ##
- <div>
-  <a href="https://github.com/MaduhCrema">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaduhCrema&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaduhCrema&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+- ❤ Estudante de Game Design
+- 💙 Fã da Alura
+- 👩‍💻 Aprendendo algo sobre back-end
   
   
 <div style="display: inline_block"><br>
