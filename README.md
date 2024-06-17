@@ -1,8 +1,6 @@
-Sou desenvolvedora de jogos, amo jogos indie, e já participei do [GameJam de 2020](https://github.com/risoflorais).
+Olá, me chamo Maria Eduarda, tenho 21 anos e sou estudante de ciência da computação!
 
-- ❤ Estudante de Game Design
-- 💙 Fã da Alura
-- 👩‍💻 Aprendendo algo sobre back-end
+- 👩‍💻 Aprendendo algo sobre Front-End
   
   
 <div style="display: inline_block"><br>
