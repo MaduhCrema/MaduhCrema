@@ -1,6 +1,6 @@
-Olá, me chamo Maria Eduarda, tenho 21 anos e sou estudante de ciência da computação!
+Olá, me chamo Maria Eduarda, tenho 22 anos e sou cientista da computação!
 
-- 👩‍💻 Aprendendo algo sobre Front-End
+👩‍💻 
   
   
 <div style="display: inline_block"><br>
