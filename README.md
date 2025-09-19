@@ -5,6 +5,9 @@ Olá, me chamo Maria Eduarda, tenho 22 anos e sou cientista da computação!
   
 <div style="display: inline_block"><br>
   <img align="center" alt="maduh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="maduh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/react-original.svg">
+  <img align="center" alt="maduh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/sql-original.svg"> 
+  <img align="center" alt="maduh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/vue-original.svg">  
   <img align="center" alt="maduh-Kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
   <img align="center" alt="maduh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="maduh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
