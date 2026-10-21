@@ -2,7 +2,7 @@
 
 Olá, me chamo Maria Eduarda (Madu), tenho 24 anos e sou cientista da computação 👩‍💻
 
-Sou analista de TI na Unioeste e trabalho com infraestrutura e automação: servidores Linux, Docker, integrações com n8n e monitoramento com Prometheus e Grafana. Minha base é desenvolvimento full-stack, então quase tudo que faço em infra acaba tendo um pouco de código.
+Sou analista de TI na Unioeste e trabalho com infraestrutura e automação: servidores Linux, Docker, integrações com n8n e monitoramento com Prometheus e Grafana. Minha base é desenvolvimento e experiências anteriores é como full-stack, então quase tudo que faço em infra acaba tendo um pouco de código.
 
 ### $ cat /etc/stack
 
