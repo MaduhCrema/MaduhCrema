@@ -1,28 +1,29 @@
-Olá, me chamo Maria Eduarda, tenho 22 anos e sou cientista da computação!
+### $ whoami
 
-👩‍💻 
-  
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="maduh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="maduh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <img align="center" alt="maduh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="maduh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="maduh-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="maduh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-</div>
-  
-  ##
-  ##  
-<div> 
-  <a href="https://instagram.com/eduarda.crema" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eduardacremacarlos2016@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/maria-eduarda-crema-carlos-673a13174" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/MaduhCrema/MaduhCrema/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
-  
+Madu · IT Analyst at Unioeste, Brazil
 
- 
-  
+I work on infrastructure and automation: Linux servers, Docker, n8n integrations
+and monitoring with Prometheus and Grafana. My background is full-stack
+(Node.js, TypeScript, Java, Python), so most of my infra work ends up with some code in it.
+
+### $ cat /etc/stack
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+### $ ls ~/studying
+
+Kubernetes, private cloud (OpenStack) and Linux fundamentals.
+Notes go to [man madu](LINK_DO_BLOG).
+
+### $ tail /var/log/youtube
+
+### $ ping madu
+
+[X](https://x.com/madu_log) · [YouTube](LINK) · [LinkedIn](LINK) · [whoami](LINK_NOTION)
